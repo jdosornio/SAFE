@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidMapsDefinitivo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ingreso_sistema">Iniciar Sesion</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="registro_text">Registro</string>
+    <string name="usuario_edit_text">Usuario</string>
+    <string name="contrasena_usuario">Contraseña</string>
+    <string name="confirmar_contrasena_usuario">Confirmar Contraseña</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="fecha_nacimiento_text">Fecha de nacimiento</string>
+    <string name="continuar_btn">Continuar</string>
+</resources>
